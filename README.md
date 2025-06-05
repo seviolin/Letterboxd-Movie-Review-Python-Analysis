@@ -1,5 +1,5 @@
 # Letterboxd-Movie-Review-Python-Analysis
-A data analysis project using Python to explore and visualize movie review data from Letterboxd that I found in Kaggle. This repository includes data cleaning, exploratory data analysis (EDA), and insights into trends such as most-watched directors, top-rated films, runtime extremes, and more.
+I found this Letterboxd dataset on Kaggle and, out of curiosity wanted to find out which movies and directors are the most popular, along with other questions I opften wonder about when it comes to films. So, in this project, with the help of Google Colab, I use Python to explore and visualize movie review data. This repository includes data cleaning, exploratory data analysis (EDA), and insights into various trends.
 
 ## Dataset
 The dataset contains the following coloumns:
