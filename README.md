@@ -2,6 +2,7 @@
 I found this Letterboxd dataset on Kaggle and, out of curiosity wanted to find out which movies and directors are the most popular, along with other questions I opften wonder about when it comes to films. So, in this project, with the help of Google Colab, I use Python to explore and visualize movie review data. This repository includes data cleaning, exploratory data analysis (EDA), and insights into various trends.
 
 ## Dataset
+![image alt](https://github.com/seviolin/Letterboxd-Movie-Review-Python-Analysis/blob/f5e5bc680e9cee71cb72ddc6e2f1bf13944e07ff/letterboxd%20dataset.png)
 The dataset contains the following coloumns:
 - No
 - Film_title
